@@ -1,0 +1,15 @@
+/Users/brandonherbison/workspace/csharp/spells/bin/Debug/net7.0/spells
+/Users/brandonherbison/workspace/csharp/spells/bin/Debug/net7.0/spells.deps.json
+/Users/brandonherbison/workspace/csharp/spells/bin/Debug/net7.0/spells.runtimeconfig.json
+/Users/brandonherbison/workspace/csharp/spells/bin/Debug/net7.0/spells.dll
+/Users/brandonherbison/workspace/csharp/spells/bin/Debug/net7.0/spells.pdb
+/Users/brandonherbison/workspace/csharp/spells/obj/Debug/net7.0/spells.csproj.AssemblyReference.cache
+/Users/brandonherbison/workspace/csharp/spells/obj/Debug/net7.0/spells.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonherbison/workspace/csharp/spells/obj/Debug/net7.0/spells.AssemblyInfoInputs.cache
+/Users/brandonherbison/workspace/csharp/spells/obj/Debug/net7.0/spells.AssemblyInfo.cs
+/Users/brandonherbison/workspace/csharp/spells/obj/Debug/net7.0/spells.csproj.CoreCompileInputs.cache
+/Users/brandonherbison/workspace/csharp/spells/obj/Debug/net7.0/spells.dll
+/Users/brandonherbison/workspace/csharp/spells/obj/Debug/net7.0/refint/spells.dll
+/Users/brandonherbison/workspace/csharp/spells/obj/Debug/net7.0/spells.pdb
+/Users/brandonherbison/workspace/csharp/spells/obj/Debug/net7.0/spells.genruntimeconfig.cache
+/Users/brandonherbison/workspace/csharp/spells/obj/Debug/net7.0/ref/spells.dll
